@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmedzaid
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning C++ & Java
+- 🌱 I’m currently learning Cyber Security And Machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/ahmed-zaid-3525111b7
 
