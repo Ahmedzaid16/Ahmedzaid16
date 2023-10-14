@@ -48,17 +48,17 @@
 <br />
 <br />
 
-<a href="https://github.com/OmarAshraf1911">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAshraf1911&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width=80% align="center" />
+<a href="https://github.com/Ahmedzaid16">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedzaid16&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width=80% align="center" />
 </a>
 <br />
 <br />
 
-<a href="https://github.com/OmarAshraf1911">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=OmarAshraf1911&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width=45%/>
+<a href="https://github.com/Ahmedzaid16">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ahmedzaid16&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width=45%/>
 </a>
-<a href="https://github.com/OmarAshraf1911">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAshraf1911&theme=prussian&hide_border=true&text_color=ffffff" width=45%/>
+<a href="https://github.com/Ahmedzaid16">
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedzaid16&theme=prussian&hide_border=true&text_color=ffffff" width=45%/>
 </a>
 
 <br />
@@ -93,7 +93,7 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=OmarAshraf1911&style=for-the-badge&color=blue" width="200" />
+ <img src="https://komarev.com/ghpvc/?username=Ahmedzaid16&style=for-the-badge&color=blue" width="200" />
 </div>
 
 
