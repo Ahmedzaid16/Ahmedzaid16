@@ -41,7 +41,7 @@
 <br />
 
 <a href="https://github.com/Ahmedzaid16">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedzaid16&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width=80% align="center" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedzaid16&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width=100% align="center" />
 </a>
 <br />
 <br />
@@ -63,7 +63,7 @@
 <a href="https://github.com/Ahmedzaid16">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
 
-![Omar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmedzaid16&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
+![Ahmed's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmedzaid16&theme=tokyo-night&hide_border=true&text_color=ffffff"&color=708090&point=24292e&area=true&hide_border=true)
   
 </a>
 <br/>
