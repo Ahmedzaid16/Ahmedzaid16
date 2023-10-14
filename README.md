@@ -41,7 +41,7 @@
 <br />
 
 <a href="https://github.com/Ahmedzaid16">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedzaid16&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width=100% align="center" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedzaid16&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" & width=100% align="center" />
 </a>
 <br />
 <br />
