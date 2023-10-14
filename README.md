@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahmedzaid
+- 👋 Hi, I’m @Ahmed Zaid
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Cyber Security And Machine learning
 - 💞️ I’m looking to collaborate on ...
