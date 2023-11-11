@@ -7,7 +7,7 @@
 <h3>🚀 About me</h3> 
 <picture> <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width = 345px></picture>
 
-<h4>👋 Hello, I'm Ahmed Zaid
+<h5>👋 Hello, I'm Ahmed Zaid
 
 🎓 Student at the Faculty of Computers and AI | Cybersecurity | Machine Learning | Neural Networks | Computer Vision | Web Development | Mobile App Development
 
@@ -23,7 +23,7 @@
 
 📫 Feel free to reach out and connect with me! I'm open to exchanging ideas, discussing projects, and contributing to innovative solutions.
 
-🌐 Learn more about me and my projects at [Ahmedzaid16]</h4>
+🌐 Learn more about me and my projects at [Ahmedzaid16]</h5>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 45% >
 
