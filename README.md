@@ -17,9 +17,9 @@
 
 - 📫 How to reach me **ahmed20491@fci.bu.edu.eg**
 
-- 📄 Know about my experiences [https://github.com/Ahmedzaid16/myCv](https://github.com/Ahmedzaid16/myCv)
+- 📄 Know about my experiences [https://github.com/Ahmedzaid16/myCv](https://github.com/Ahmedzaid16/myCv/blob/main/Ahmed%20Zaid-Resume.pdf)
 
-- ⚡ Fact **The human brain's ability to continuously form new neural connections, known as neuroplasticity, embodies our limitless potential for growth and adaptation**
+- ⚡ Fact **The human brain's ability to continuously form new neural connections, embodies our limitless potential for growth and adaptation**
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 45% >
 
