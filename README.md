@@ -13,11 +13,11 @@
 - 🔭 I’m currently studing **Computer Science** 
 - 🌱 I’m currently learning **penetration testing & Computer Vision**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ahmedzaid16](https://github.com/Ahmedzaid16?tab=repositories)
+- 👨‍💻 All of my projects are available at [My repositories](https://github.com/Ahmedzaid16?tab=repositories)
 
 - 📫 How to reach me **ahmed20491@fci.bu.edu.eg**
 
-- 📄 Know about my experiences [https://github.com/Ahmedzaid16/myCv](https://github.com/Ahmedzaid16/myCv/blob/main/Ahmed%20Zaid-Resume.pdf)
+- 📄 Know about my experiences [My Resume](https://github.com/Ahmedzaid16/myCv/blob/main/Ahmed%20Zaid-Resume.pdf)
 
 - ⚡ Fact **The human brain's ability to continuously form new neural connections, embodies our limitless potential for growth and adaptation**
 
