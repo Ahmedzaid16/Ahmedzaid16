@@ -4,26 +4,22 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=cyber%20security%20engineer;Wait%20for%20more%20projects&font=Fira%20Code&center=true&width=440&height=45&color=2196f3&vCenter=true&size=24"></a>
 </p> 
 <br/>
-<h3>🚀 About me</h3> 
 <picture> <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width = 345px></picture>
 
-<h5>👋 Hello, I'm Ahmed Zaid
 
-🎓 Student at the Faculty of Computers and AI | Cybersecurity | Machine Learning | Neural Networks | Computer Vision | Web Development | Mobile App Development
+<h1 align="center">Hi 👋, I'm Ahmed M Zaid</h1>
 
-🔭 Exploring the intersection of technology and innovation, I'm passionate about cybersecurity, machine learning, neural networks, computer vision, web development, and mobile app development. Currently, I am expanding my knowledge in computer vision, mastering techniques and algorithms to extract meaningful information from images and videos.
 
-💼 As a cybersecurity enthusiast, I prioritize identifying and mitigating potential threats to ensure data and systems are protected. In machine learning, I develop models and algorithms to extract insights from complex datasets, while leveraging neural networks for tasks like image recognition, natural language processing, and predictive analytics.
+- 🔭 I’m currently studing **Computer Science** 
+- 🌱 I’m currently learning **penetration testing & Computer Vision**
 
-💻 Proficient in web development, I create dynamic and user-friendly websites using modern frameworks and technologies. Additionally, I have experience in mobile app development, building intuitive and feature-rich applications for Android using Java and Flutter.
+- 👨‍💻 All of my projects are available at [https://github.com/Ahmedzaid16](https://github.com/Ahmedzaid16?tab=repositories)
 
-🌱 I am a lifelong learner, always seeking opportunities to expand my knowledge and stay up-to-date with the latest advancements in the tech industry. Collaboration is key to my approach, and I thrive in diverse teams that tackle complex challenges.
+- 📫 How to reach me **ahmed20491@fci.bu.edu.eg**
 
-🤝 Let's connect and explore exciting opportunities, collaborations, and knowledge sharing in the realms of cybersecurity, machine learning, neural networks, computer vision, web development, or mobile app development.
+- 📄 Know about my experiences [https://github.com/Ahmedzaid16/myCv](https://github.com/Ahmedzaid16/myCv)
 
-📫 Feel free to reach out and connect with me! I'm open to exchanging ideas, discussing projects, and contributing to innovative solutions.
-
-🌐 Learn more about me and my projects at [Ahmedzaid16]</h5>
+- ⚡ Fact **The human brain's ability to continuously form new neural connections, known as neuroplasticity, embodies our limitless potential for growth and adaptation**
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width= 45% >
 
