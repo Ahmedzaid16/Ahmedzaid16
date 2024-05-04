@@ -34,21 +34,31 @@
 <br />
 <br />
 
-<a href="https://github.com/Ahmedzaid16">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedzaid16&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" & width=70% align="center" />
-</a>
-<br />
-<br />
+<table>
+  <tr>
+    <td rowspan="2" valign="top" width="50%">
+      <a href="https://github.com/Ahmedzaid16">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedzaid16&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="100%" />
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/Ahmedzaid16">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ahmedzaid16&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/Ahmedzaid16">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedzaid16&theme=prussian&hide_border=true&text_color=ffffff" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/Ahmedzaid16">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ahmedzaid16&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width=45%/>
-</a>
-<a href="https://github.com/Ahmedzaid16">
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedzaid16&theme=prussian&hide_border=true&text_color=ffffff" width=45%/>
-</a>
 
-<br />
-<br />
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100% >
 
