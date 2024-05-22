@@ -4,11 +4,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=cyber%20security%20engineer;Wait%20for%20more%20projects&font=Fira%20Code&center=true&width=440&height=45&color=2196f3&vCenter=true&size=24"></a>
 </p> 
 <br/>
-<picture> <img align="right" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width = 345px></picture>
+
 
 
 <h1 align="center">Hi 👋, I'm Ahmed M Zaid</h1>
-
+<picture> <img align="right" src="https://media.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif" width = 345px></picture>
 
 - 🔭 I’m currently studing **Computer Science** 
 - 🌱 I’m currently learning **penetration testing & Computer Vision**
