@@ -12,7 +12,7 @@
 <picture> <img align="right" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width = 345px></picture>
 
 - 🔭 I’m currently studing **Computer Science** 
-- 🌱 I’m currently learning **penetration testing & Computer Vision**
+- 🌱 I’m currently learning **penetration testing**
 
 - 👨‍💻 All of my projects are available at [My repositories](https://github.com/Ahmedzaid16?tab=repositories)
 
