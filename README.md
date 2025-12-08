@@ -39,19 +39,19 @@
   <tr>
     <td rowspan="2" valign="top" width="50%">
       <a href="https://github.com/Ahmedzaid16">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedzaid16&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="100%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ahmedzaid16&layout=compact&langs_count=9&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="100%"/>
       </a>
     </td>
     <td valign="top" width="50%">
       <a href="https://github.com/Ahmedzaid16">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ahmedzaid16&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="100%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=Ahmedzaid16&show_icons=true&theme=prussian&hide_border=true&text_color=ffffff" width="100%"/>
       </a>
     </td>
   </tr>
   <tr>
     <td valign="top">
       <a href="https://github.com/Ahmedzaid16">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedzaid16&theme=prussian&hide_border=true&text_color=ffffff" width="100%" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Ahmedzaid16&theme=prussian&hide_border=true&text_color=ffffff" width="100%"/>
       </a>
     </td>
   </tr>
